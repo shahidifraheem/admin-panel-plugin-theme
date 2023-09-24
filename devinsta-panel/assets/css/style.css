@@ -1,0 +1,10 @@
+.input-box {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.radio-spacex {
+    padding-left: 10px;
+    padding-right: 10px;
+}
